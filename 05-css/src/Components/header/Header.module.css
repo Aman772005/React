@@ -1,0 +1,18 @@
+
+.head{
+    display: flex;
+    background-color:rgb(192, 255, 193);
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 30px;
+    padding: 10px 10px;
+}
+
+.btn{
+    padding: 5px 10xp;
+    font-weight: 500;
+    font-size: 15px;
+    background-color: black;
+    border-radius: 10px;
+    object-fit: contain;
+}
